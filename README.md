@@ -24,7 +24,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-Solution URL: [https://seismicman.github.io/10-FAQ-Accordion-Card-Component/](https://seismicman.github.io/10-FAQ-Accordion-Card-Component/)
+Solution URL: [https://seismicman.github.io/11-Social-Proof-Section-Master/](https://seismicman.github.io/11-Social-Proof-Section-Master/)
 
 ## My process
 
